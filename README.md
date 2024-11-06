@@ -2,6 +2,8 @@
 
 ## Overview
 
+### View the live app at : [https://stock-trading-440505.uw.r.appspot.com](https://stock-trading-440505.uw.r.appspot.com/)
+
 This comprehensive stock market web application, built with Angular, provides users with real-time stock data, watchlist functionality, and portfolio management. It leverages modern web technologies to deliver a responsive and interactive experience for stock market enthusiasts.
 
 ## Features
