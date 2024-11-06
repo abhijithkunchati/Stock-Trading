@@ -4,7 +4,7 @@
 
 ### View the live app at : [https://stock-trading-440505.uw.r.appspot.com](https://stock-trading-440505.uw.r.appspot.com/)
 
-This comprehensive stock market web application, built with Angular, provides users with real-time stock data, watchlist functionality, and portfolio management. It leverages modern web technologies to deliver a responsive and interactive experience for stock market enthusiasts.
+This comprehensive stock market web application, provides users with real-time stock data, watchlist functionality, and portfolio management. It leverages modern web technologies to deliver a responsive and interactive experience for stock market enthusiasts.
 
 ## Features
 
@@ -33,50 +33,6 @@ This comprehensive stock market web application, built with Angular, provides us
 ### Responsive Design
 - Seamless experience across desktop, tablet, and mobile devices
 - Adaptive layout using Bootstrap grid system
-
-## Technical Stack
-
-- **Frontend**: Angular 15 or above
-- **Backend**: Node.js 18 with Express.js
-- **Database**: MongoDB Atlas
-- **UI Framework**: Bootstrap 5.3.2
-- **Additional Libraries**:
-  - ng-bootstrap 14.0.0
-  - Highcharts 10.3.3
-  - Angular Material for autocomplete and other UI components
-- **APIs**:
-  - Finnhub API for real-time stock data
-  - Polygon.io API for historical data and company information
-
-## Setup and Installation
-
-1. **Clone the repository**
-git clone https://github.com/rakeshchirla/Stock-Search-and-Portfolio-Management-Web-App
-
-cd stock-market-app
-
-3. **Install dependencies**
-npm install
-
-4. **Environment Configuration**
-Create a `.env` file in the root directory:
-
-FINNHUB_API_KEY=your_finnhub_api_key
-
-POLYGON_API_KEY=your_polygon_api_key
-
-MONGODB_URI=your_mongodb_connection_string
-
-PORT=3000
-
-5. **Start the development server**
-ng serve
-
-For the backend:
-node server.js
-
-5. **Access the application**
-Open your browser and navigate to `http://localhost:4200`
 
 
 This project demonstrates a microservices architecture implemented in Go, showcasing various services and their interactions.
