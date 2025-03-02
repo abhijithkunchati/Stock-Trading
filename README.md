@@ -2,9 +2,15 @@
 
 ## Overview
 
-### View the live app at : [https://stock-trading-440505.uw.r.appspot.com](https://stock-trading-440505.uw.r.appspot.com/)
+### View the live app at : [https://stocktrade-452505.uw.r.appspot.com](https://stocktrade-452505.uw.r.appspot.com/)
 
 This comprehensive stock market web application, provides users with real-time stock data, watchlist functionality, and portfolio management. It leverages modern web technologies to deliver a responsive and interactive experience for stock market enthusiasts.
+
+## Screenshots
+
+![Alt text](resources/Screenshots1.png)
+![Alt text](resources/Screenshots2.png)
+![Alt text](resources/Screenshots3.png)
 
 ## Features
 
